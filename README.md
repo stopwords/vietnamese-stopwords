@@ -1,6 +1,6 @@
 # vietnamese-stopwords
 
-Vietnamese stopwords list, get here https://github.com/duyetdev/vietnamese-stopwords/blob/master/vietname-stopwords.txt
+Vietnamese stopwords dict, get here https://github.com/duyetdev/vietnamese-stopwords/blob/master/vietname-stopwords.txt
 
 # How to contribute
 1. Fork the project on Github
