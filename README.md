@@ -2,6 +2,8 @@
 
 Vietnamese stopwords dict, get here https://github.com/duyetdev/vietnamese-stopwords/blob/master/vietname-stopwords.txt
 
+For PredictionIO EventServer import file, please using this tools [scala-parallel-textclassification/tools/create-stop-words](https://github.com/duyetdev/scala-parallel-textclassification/blob/master/tools/create-stop-words.js) to generate stopwords-import-file.
+
 # How to contribute
 1. Fork the project on Github
 2. Create a topic branch for your changes
