@@ -6,14 +6,15 @@ For PredictionIO EventServer, please using this tools [scala-parallel-textclassi
 
 # Using 
 
-* Copy `vietname-stopwords.txt` data file to your project.
-* Using in Nodejs project
+### Method 1: Copy `vietname-stopwords.txt` data file to your project.
+### Method 2: Using in Nodejs project
 
 1. Install by `npm`
 ```sh
 npm install vietname-stopwords
 ```
 
+2. Require in Nodejs code
 ```js
 var stopwords = require('vietname-stopwords');
 
