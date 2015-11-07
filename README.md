@@ -11,7 +11,7 @@ For PredictionIO EventServer, please using this tools [scala-parallel-textclassi
 
 1. Install by `npm`
 ```sh
-npm install vietname-stopwords
+npm install vietnamese-stopwords
 ```
 
 2. Require in Nodejs code
