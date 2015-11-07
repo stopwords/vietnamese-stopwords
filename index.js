@@ -1,10 +1,12 @@
 'use strict';
 
 var fs = require('fs');
-var words = fs.readFileSync('./vietname-stopwords.txt', 'utf8');
+var path = require('path');
+
+var words = fs.readFileSync(path.join(__dirname, './vietnamese-stopwords.txt'), 'utf8');
 
 module.exports = words.split('\n').map(function(word) {
-	return (word || '').trim();
+        return (word || '').trim();
 }).filter(function(word) {
-	return word !== false && word.length > 0;
+        return word !== false && word.length > 0;
 })
