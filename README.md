@@ -16,7 +16,7 @@ npm install vietname-stopwords
 
 2. Require in Nodejs code
 ```js
-var stopwords = require('vietname-stopwords');
+var stopwords = require('vietnamese-stopwords');
 
 console.log(stopwords);
 // [ 'bị', 'bởi', 'cả', 'các', 'cái', ...]
