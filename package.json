@@ -1,0 +1,30 @@
+{
+  "name": "vietnamese-stopwords",
+  "version": "0.0.1",
+  "description": "Vietnamese stopwords",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duyetdev/vietnamese-stopwords.git"
+  },
+  "keywords": [
+    "vietnamses",
+    "duyetdev",
+    "stopwords",
+    "nlp",
+    "data",
+    "mining",
+    "nodejs",
+    "mining",
+    "tokenizer"
+  ],
+  "author": "Van-Duyet Le",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duyetdev/vietnamese-stopwords/issues"
+  },
+  "homepage": "https://github.com/duyetdev/vietnamese-stopwords#readme"
+}

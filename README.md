@@ -4,6 +4,23 @@ Vietnamese stopwords dict, get here https://github.com/duyetdev/vietnamese-stopw
 
 For PredictionIO EventServer, please using this tools [scala-parallel-textclassification/tools/create-stop-words](https://github.com/duyetdev/scala-parallel-textclassification/blob/master/tools/create-stop-words.js) to generate stopwords-import-file.
 
+# Using 
+
+* Copy `vietname-stopwords.txt` data file to your project.
+* Using in Nodejs project
+
+1. Install by `npm`
+```sh
+npm install vietname-stopwords
+```
+
+```js
+var stopwords = require('vietname-stopwords');
+
+console.log(stopwords);
+// [ 'bị', 'bởi', 'cả', 'các', 'cái', ...]
+```
+
 # How to contribute
 1. Fork the project on Github
 2. Create a topic branch for your changes
