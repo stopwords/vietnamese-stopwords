@@ -1,5 +1,7 @@
 # vietnamese-stopwords
 
+[![NPM](https://nodei.co/npm/vietnamese-stopwords.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/vietnamese-stopwords/)
+
 Vietnamese stopwords dict, get here https://github.com/duyetdev/vietnamese-stopwords/blob/master/vietname-stopwords.txt
 
 For PredictionIO EventServer, please using this tools [scala-parallel-textclassification/tools/create-stop-words](https://github.com/duyetdev/scala-parallel-textclassification/blob/master/tools/create-stop-words.js) to generate stopwords-import-file.
