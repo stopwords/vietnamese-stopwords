@@ -2,6 +2,11 @@
 
 [![NPM](https://nodei.co/npm/vietnamese-stopwords.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/vietnamese-stopwords/)
 
+
+**Support**
+
+<a href="https://s.duyet.net/r/patreon"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160"></a>
+
 Vietnamese stopwords dict, get here https://github.com/stopwords/vietnamese-stopwords/blob/master/vietname-stopwords.txt
 
 ```
